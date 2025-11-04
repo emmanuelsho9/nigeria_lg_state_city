@@ -1,9 +1,6 @@
 name: nigeria_lg_state_city
-description: >-
-  A Flutter plugin for cascading dropdowns of Nigerian States, LGAs, and Cities.
-  Includes offline JSON data, controller-based state management, and full customization.
-  No API key or internet required. Returns city coordinates.
-version: 0.0.1
+description: Nigerian States → LGAs → Cities cascading dropdowns. Offline, customizable, returns city coordinates.
+version: 0.0.2
 homepage: https://github.com/emmanuelsho9/nigeria_lg_state_city
 repository: https://github.com/emmanuelsho9/nigeria_lg_state_city
 issue_tracker: https://github.com/emmanuelsho9/nigeria_lg_state_city/issues
