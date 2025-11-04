@@ -1,6 +1,6 @@
 name: nigeria_lg_state_city
 description: Nigerian States → LGAs → Cities cascading dropdowns. Offline, customizable, returns city coordinates.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/emmanuelsho9/nigeria_lg_state_city
 repository: https://github.com/emmanuelsho9/nigeria_lg_state_city
 issue_tracker: https://github.com/emmanuelsho9/nigeria_lg_state_city/issues
